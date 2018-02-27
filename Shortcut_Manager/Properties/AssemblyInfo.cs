@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NSA Frontiers")]
 [assembly: AssemblyProduct("Shortcut Manager")]
-[assembly: AssemblyCopyright("Copyright © NSA Frontiers 2015")]
+[assembly: AssemblyCopyright("Copyright © Katie Delaney 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
