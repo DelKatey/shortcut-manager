@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Shortcut Manager")]
 [assembly: AssemblyDescription("A handy program to help you manage your internet shortcuts, and consolidate them!")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("NSA Frontiers")]
+[assembly: AssemblyCompany("na")]
 [assembly: AssemblyProduct("Shortcut Manager")]
 [assembly: AssemblyCopyright("Copyright © Katie Delaney 2015")]
 [assembly: AssemblyTrademark("")]
